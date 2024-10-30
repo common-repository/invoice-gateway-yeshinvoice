@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YESH INVOICE WOOCOMMERCE PAYMENT GATEWAY PLUGIN Pot v1.0."
+"0\n"
+"Report-Msgid-Bugs-To: Yesh Invoice Team <support@yeshinvoice.co.il >\n"
+"POT-Creation-Date: 2023-09-11 10:51+0000\n"
+"PO-Revision-Date: 2023-09-11 10:53+0000\n"
+"Last-Translator: Yesh Invoice <support@yeshinvoice.co.il >\n"
+"Language-Team: English (Israel)\n"
+"Language: en-IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IL\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:"
+"1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_mo\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid ""
+"(For debug you can enable error log with YESHIN_DEBUG set as true and you "
+"can find log file path here - %s)"
+msgstr ""
+"מפתחות חיים (לצורך איתור באגים תוכל להפעיל יומן שגיאות כאשר YESHIN_DEBUG "
+"מוגדר כנכון ותוכל למצוא כאן את נתיב קובץ היומן - %s)"
+
+msgid "Background Color"
+msgstr "צבע רקע"
+
+msgid "Credit Card"
+msgstr "כרטיס אשראי"
+
+msgid "Currency ID "
+msgstr "מטבע לחיוב "
+
+msgid "Description"
+msgstr "מידע נוסף"
+
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "האם לשלוח חשבונית ללקוח באימייל?"
+
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "האם לשלוח חשבונית ללקוח ב SMS?"
+
+msgid "Donation"
+msgstr "קבלה לתרומה"
+
+msgid "Enable Test Mode"
+msgstr "אשר סביבת טסט"
+
+msgid "Enable YESH INVOICE Gateway"
+msgstr "פלאגין פעיל"
+
+msgid "Enable/Disable"
+msgstr "פעיל/לא פעיל"
+
+msgid "Invoice Language ID"
+msgstr "שפה של החשבונית"
+
+msgid "Invoice Title"
+msgstr "כותרת קבוע שתופיע במסמך"
+
+msgid "Invoice Type"
+msgstr "סוג חיוב"
+
+msgid "J5 Billing"
+msgstr "תפיסת מסגרת J5"
+
+msgid "Live Keys"
+msgstr "מפתחות LIVE"
+
+msgid "Live Secret Key"
+msgstr "מפתח סודי"
+
+msgid "Live User Key"
+msgstr "מפתח משתמש"
+
+msgid "Logo Url"
+msgstr "תמונת לוגו"
+
+msgid "Normal Billing"
+msgstr "חיוב רגיל"
+
+msgid "Page Description"
+msgstr "טקסט חופשי בדף רכישה"
+
+msgid "Page Title"
+msgstr "כותרת בדף הרכישה"
+
+msgid "Pay with YeshInvoice"
+msgstr "שלם עם יש חשבונית"
+
+msgid "Payment Type"
+msgstr "סוג חיוב"
+
+msgid "Please select PaymentType here."
+msgstr "בחירת סוג חיוב."
+
+msgid "Reciept"
+msgstr "קבלה לתשלום"
+
+msgid "Send Invoice Email"
+msgstr "שלח חשבונית באימייל"
+
+msgid "Send Invoice SMS"
+msgstr "שלח חשבונית ב SMS"
+
+msgid "Something went wrong. Please try again later."
+msgstr "משהו השתבש, אנא נסה שוב במועד מאוחר יותר."
+
+msgid "Tax Invoice/Receipt"
+msgstr "חשבונית מס/קבלה"
+
+msgid "Test Keys"
+msgstr "מפתחות בדיקה"
+
+msgid "Test Secret Key"
+msgstr "מפתח סודי לבדיקה"
+
+msgid "Test User Key "
+msgstr "בדוק מפתח משתמש "
+
+msgid "Test mode"
+msgstr "סביבת בדיקות"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "שדה תיאור נוסף שהלקוח רואה בשלב הקופה לפני הרכישה."
+
+msgid ""
+"This controls the description which the user sees during yesh invoice "
+"payment page."
+msgstr "שדה תיאור נוסף, הלקוח רואה את זה בדף רכישה של יש חשבונית."
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "שדה כותרת, הלקוח רואה בשלב הקופה לפני הרכישה."
+
+msgid ""
+"This controls the title which the user sees during yesh invoice payment page."
+msgstr "שדה כותרת, הלקוח רואה בדף הסליקה של יש חשבונית."
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "UPLOAD LOGO"
+msgstr "העלאת לוגו"
+
+msgid "Yesh Invoice - Gateway"
+msgstr "יש חשבונית - סליקה"
+
+msgid ""
+"Yesh Invoice allows you pay invoices for any transaction on your WooCommerce."
+" Enjoy a variety of useful features, such as Bit, PayPal and Credit Card "
+"without extra costs."
+msgstr ""
+"יש חשבונית מאפשרת לך לשלם וגם להוציא חשבוניות עבור כל עסקה ב- WooCommerce "
+"שלך. תהנה ממגוון תכונות שימושיות, כגון, חיוב בביט, פייפל והכל ללא עלויות "
+"נוספות."
+
+msgid ""
+"Yesh Invoice plugin allows you to send automatic invoices for any "
+"transaction on your WooCommerce. Enjoy a variety of useful features, such as "
+"Bit, PayPal and Credit Card without extra costs."
+msgstr ""
+"פלאגין של יש חשבונית מאפשר לך לבצע סליקת אשראי וגם הוצאת חשבונית ביחד ללקוח "
+"בצורה קלה וידידותית בחנות של WooCommerce, תתחילו לסלוק גם דרך ביט, פייפל, "
+"ועודאפשרויות שלא תמצאו באף מקום אחר.\n"
+"הפקת חשבונית וקבלות ללא הגבלת כמות."
+
+msgid "YeshInvoice Checkout Page"
+msgstr "יש חשבונית דף סליקה"
+
+msgid "YeshInvoice Live SecretKey goes here."
+msgstr "המפתח הסודי החי ל- YeshInvoice מגיע לכאן."
+
+msgid "YeshInvoice Test SecretKey goes here."
+msgstr "המפתח הסודי של מבחן YeshInvoice הולך לכאן."
+
+msgid "YeshInvoice Test UserKey goes here."
+msgstr "מפתח משתמש של בדיקת YeshInvoice עובר לכאן."

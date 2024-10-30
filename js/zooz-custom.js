@@ -1,0 +1,1 @@
+jQuery("#woocommerce_yeshin__yeshin_logourl").after('<button class="trigger-logourl button-primary">UPLAOD</button>');

@@ -1,0 +1,28 @@
+#woocommerce_yeshin_advanced, #woocommerce_yeshin_advanced_live_keys, #woocommerce_yeshin_advanced_test_keys, #woocommerce_yeshin_advanced_subs{font-size: 1.6em; font-weight: bold;}
+
+ #woocommerce_yeshin__yeshin_description, #woocommerce_yeshin_description{
+	 max-width: 400px;
+ }
+ 
+ #woocommerce_yeshin__yeshin_btnbgcolor{
+	max-width: 363px; 
+ }
+ 
+ input#woocommerce_yeshin__yeshin_bgcolor {
+    max-width: 363px;
+}
+
+
+ a.trigger-logourl.button-primary {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ 
+ wc-wp-version-gte-53 .woocommerce table.form-table .colorpickpreview {
+    width: 28px !important;
+    height: 28px !important;
+ }
+
+ .woocommerce .colorpickpreview{border: none !important;}
+	
+@media (max-width:767px){ input#woocommerce_yeshin__yeshin_bgcolor {float: left;width: 89%; margin-top: 1px;}span.colorpickpreview {width: 10% !important;margin: 0 !important;}}

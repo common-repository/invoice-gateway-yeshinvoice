@@ -1,0 +1,241 @@
+# YESH INVOICE POT FILE
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: YESH INVOICE WOOCOMMERCE PAYMENT GATEWAY PLUGIN Pot "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: Yesh Invoice Team <support@yeshinvoice.co.il >\n"
+"POT-Creation-Date: 2021-10-08 18:16+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yesh Invoice <support@yeshinvoice.co.il >\n"
+"Language-Team: Yesh Invoice Team <support@yeshinvoice.co.il >\n"
+"Language: en_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: wc-yeshin\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/settings-yeshinvoice.php:10
+msgid "Enable/Disable"
+msgstr "Включить выключить"
+
+#: includes/settings-yeshinvoice.php:11
+msgid "Enable YESH INVOICE Gateway"
+msgstr "Включить шлюз YESH INVOICE"
+
+#: includes/settings-yeshinvoice.php:17
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/settings-yeshinvoice.php:19
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Это контролирует заголовок, который пользователь видит во время оформления "
+"заказа."
+
+#: includes/settings-yeshinvoice.php:20
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+#: includes/settings-yeshinvoice.php:24
+msgid "Description"
+msgstr "Описание"
+
+#: includes/settings-yeshinvoice.php:26
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Это контролирует описание, которое пользователь видит во время оформления "
+"заказа."
+
+#: includes/settings-yeshinvoice.php:27 wc-yeshin.php:98
+msgid ""
+"Yesh Invoice plugin allows you to send automatic invoices for any "
+"transaction on your WooCommerce. Enjoy a variety of useful features, such as "
+"Bit, PayPal and Credit Card without extra costs."
+msgstr ""
+"Плагин Yesh Invoice позволяет отправлять автоматические счета для любой "
+"транзакции в вашей WooCommerce. Наслаждайтесь множеством полезных функций, "
+"таких как Bit, PayPal и Credit Card, без дополнительных затрат."
+
+#: includes/settings-yeshinvoice.php:30
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+#: includes/settings-yeshinvoice.php:31
+msgid "Enable Test Mode"
+msgstr "Включить тестовый режим"
+
+#: includes/settings-yeshinvoice.php:33
+#, php-format
+msgid ""
+"(For debug you can enable error log with YESHIN_DEBUG set as true and you "
+"can find log file path here - %s)"
+msgstr ""
+"(Для отладки вы можете включить журнал ошибок, задав для YESHIN_DEBUG "
+"значение true, и вы можете найти здесь путь к файлу журнала -% s)"
+
+#: includes/settings-yeshinvoice.php:38
+msgid "Test Keys"
+msgstr "Тестовые ключи"
+
+#: includes/settings-yeshinvoice.php:43
+msgid "Test Secret Key"
+msgstr "Тестовый секретный ключ"
+
+#: includes/settings-yeshinvoice.php:44
+msgid "YeshInvoice Test SecretKey goes here."
+msgstr "Секретный ключ теста YeshInvoice находится здесь."
+
+#: includes/settings-yeshinvoice.php:49
+msgid "Test User Key "
+msgstr "Ключ тестового пользователя "
+
+#: includes/settings-yeshinvoice.php:50 includes/settings-yeshinvoice.php:67
+msgid "YeshInvoice Test UserKey goes here."
+msgstr "Здесь находится тестовый ключ пользователя YeshInvoice."
+
+#: includes/settings-yeshinvoice.php:55
+msgid "Live Keys"
+msgstr "Живые ключи"
+
+#: includes/settings-yeshinvoice.php:61
+msgid "Live Secret Key"
+msgstr "Живой секретный ключ"
+
+#: includes/settings-yeshinvoice.php:62
+msgid "YeshInvoice Live SecretKey goes here."
+msgstr "Здесь находится Жить секретный ключ  YeshInvoice."
+
+#: includes/settings-yeshinvoice.php:66
+msgid "Live User Key"
+msgstr "Ключ живого пользователя"
+
+#: includes/settings-yeshinvoice.php:72
+msgid "Payment Type"
+msgstr "Способ оплаты"
+
+#: includes/settings-yeshinvoice.php:74
+msgid "Normal Billing"
+msgstr "Обычный биллинг"
+
+#: includes/settings-yeshinvoice.php:74
+msgid "J5 Billing"
+msgstr "J5 Биллинг"
+
+#: includes/settings-yeshinvoice.php:75
+msgid "Please select PaymentType here."
+msgstr "Пожалуйста, выберите здесь способ оплаты."
+
+#: includes/settings-yeshinvoice.php:79
+msgid "Currency ID "
+msgstr "Идентификатор валюты "
+
+#: includes/settings-yeshinvoice.php:88
+msgid "Invoice Language ID"
+msgstr "Идентификатор языка счета"
+
+#: includes/settings-yeshinvoice.php:95
+msgid "Send Invoice SMS"
+msgstr "Отправить счет по SMS"
+
+#: includes/settings-yeshinvoice.php:97
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "Вы хотите отправить клиенту SMS со счетом-фактурой?"
+
+#: includes/settings-yeshinvoice.php:101
+msgid "Send Invoice Email"
+msgstr "Отправить счет по электронной почте"
+
+#: includes/settings-yeshinvoice.php:103
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "Вы хотите отправить клиенту электронное письмо со счетом-фактурой?"
+
+#: includes/settings-yeshinvoice.php:113
+msgid "YeshInvoice Checkout Page"
+msgstr "Страница оформления заказа YeshInvoice"
+
+#: includes/settings-yeshinvoice.php:119
+msgid "Invoice Title"
+msgstr "Название счета-фактуры"
+
+#: includes/settings-yeshinvoice.php:124
+msgid "Invoice Type"
+msgstr "Тип счета"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Reciept"
+msgstr "Получение"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Donation"
+msgstr "Пожертвование"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Tax Invoice/Receipt"
+msgstr "Налоговая накладная / квитанция"
+
+#: includes/settings-yeshinvoice.php:131
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: includes/settings-yeshinvoice.php:133
+msgid ""
+"This controls the title which the user sees during yesh invoice payment page."
+msgstr ""
+"Это контролирует заголовок, который пользователь видит на странице оплаты "
+"счета еш."
+
+#: includes/settings-yeshinvoice.php:134
+msgid "Pay with YeshInvoice"
+msgstr "Оплата с помощью YeshInvoice"
+
+#: includes/settings-yeshinvoice.php:138
+msgid "Page Description"
+msgstr "Описание страницы"
+
+#: includes/settings-yeshinvoice.php:140
+msgid ""
+"This controls the description which the user sees during yesh invoice "
+"payment page."
+msgstr ""
+"Это контролирует описание, которое пользователь видит на странице оплаты "
+"счета еш."
+
+#: includes/settings-yeshinvoice.php:141
+msgid ""
+"Yesh Invoice allows you pay invoices for any transaction on your "
+"WooCommerce. Enjoy a variety of useful features, such as Bit, PayPal and "
+"Credit Card without extra costs."
+msgstr ""
+"Yesh Invoice позволяет вам оплачивать счета за любую транзакцию в вашем "
+"WooCommerce. Наслаждайтесь множеством полезных функций, таких как Bit, "
+"PayPal и Credit Card, без дополнительных затрат."
+
+#: includes/settings-yeshinvoice.php:146
+msgid "Logo Url"
+msgstr "URL-адрес логотипа"
+
+#: includes/settings-yeshinvoice.php:151
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+#: wc-yeshin.php:97
+msgid "Yesh Invoice - Gateway"
+msgstr "Счет-фактура Еш - Шлюз"
+
+#: wc-yeshin.php:169
+msgid "UPLOAD LOGO"
+msgstr "ЗАГРУЗИТЬ ЛОГОТИП"
+
+#: wc-yeshin.php:281
+msgid "Something went wrong. Please try again later."
+msgstr "Что-то пошло не так. Пожалуйста, попробуйте позже."

@@ -1,0 +1,250 @@
+# YESH INVOICE POT FILE
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: YESH INVOICE WOOCOMMERCE PAYMENT GATEWAY PLUGIN Pot "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: Yesh Invoice Team <support@yeshinvoice.co.il >\n"
+"POT-Creation-Date: 2021-10-08 18:13+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yesh Invoice <support@yeshinvoice.co.il >\n"
+"Language-Team: Yesh Invoice Team <support@yeshinvoice.co.il >\n"
+"Language: en_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/settings-yeshinvoice.php:10
+msgid "Enable/Disable"
+msgstr "Activer désactiver"
+
+#: includes/settings-yeshinvoice.php:11
+msgid "Enable YESH INVOICE Gateway"
+msgstr "Activer la passerelle YESH INVOICE"
+
+#: includes/settings-yeshinvoice.php:17
+msgid "Title"
+msgstr "Titre"
+
+#: includes/settings-yeshinvoice.php:19
+msgid "This controls the title which the user sees during checkout."
+msgstr "Cela contrôle le titre que l'utilisateur voit lors du paiement."
+
+#: includes/settings-yeshinvoice.php:20
+msgid "Credit Card"
+msgstr "Carte de crédit"
+
+#: includes/settings-yeshinvoice.php:24
+msgid "Description"
+msgstr "La description"
+
+#: includes/settings-yeshinvoice.php:26
+msgid "This controls the description which the user sees during checkout."
+msgstr "Cela contrôle la description que l'utilisateur voit lors du paiement."
+
+#: includes/settings-yeshinvoice.php:27 wc-yeshin.php:98
+msgid ""
+"Yesh Invoice plugin allows you to send automatic invoices for any "
+"transaction on your WooCommerce. Enjoy a variety of useful features, such as "
+"Bit, PayPal and Credit Card without extra costs."
+msgstr ""
+"Le plugin Yesh Invoice vous permet d'envoyer des factures automatiques pour "
+"toute transaction sur votre WooCommerce. Profitez d'une variété de "
+"fonctionnalités utiles, telles que Bit, PayPal et Carte de crédit sans frais "
+"supplémentaires."
+
+#: includes/settings-yeshinvoice.php:30
+msgid "Test mode"
+msgstr "Mode d'essai"
+
+#: includes/settings-yeshinvoice.php:31
+msgid "Enable Test Mode"
+msgstr "Activer le mode test"
+
+#: includes/settings-yeshinvoice.php:33
+#, php-format
+msgid ""
+"(For debug you can enable error log with YESHIN_DEBUG set as true and you "
+"can find log file path here - %s)"
+msgstr ""
+"(Pour le débogage, vous pouvez activer le journal des erreurs avec "
+"YESHIN_DEBUG défini sur true et vous pouvez trouver le chemin du fichier "
+"journal ici - %s)"
+
+#: includes/settings-yeshinvoice.php:38
+msgid "Test Keys"
+msgstr "Tester les clés"
+
+#: includes/settings-yeshinvoice.php:43
+msgid "Test Secret Key"
+msgstr "Tester la clé secrète"
+
+#: includes/settings-yeshinvoice.php:44
+msgid "YeshInvoice Test SecretKey goes here."
+msgstr "YeshInvoice Tester clé secrète va ici."
+
+#: includes/settings-yeshinvoice.php:49
+msgid "Test User Key "
+msgstr "Tester la clé utilisateur "
+
+#: includes/settings-yeshinvoice.php:50 includes/settings-yeshinvoice.php:67
+msgid "YeshInvoice Test UserKey goes here."
+msgstr "YeshInvoice Tester clé utilisateur va ici."
+
+#: includes/settings-yeshinvoice.php:55
+msgid "Live Keys"
+msgstr "Clés en direct"
+
+#: includes/settings-yeshinvoice.php:61
+msgid "Live Secret Key"
+msgstr "Clé secrète en direct"
+
+#: includes/settings-yeshinvoice.php:62
+msgid "YeshInvoice Live SecretKey goes here."
+msgstr "YeshInvoice Clé secrète en direct va ici."
+
+#: includes/settings-yeshinvoice.php:66
+msgid "Live User Key"
+msgstr "Clé d'utilisateur en direct"
+
+#: includes/settings-yeshinvoice.php:72
+msgid "Payment Type"
+msgstr "Type de paiement"
+
+#: includes/settings-yeshinvoice.php:74
+msgid "Normal Billing"
+msgstr "Facturation normale"
+
+#: includes/settings-yeshinvoice.php:74
+msgid "J5 Billing"
+msgstr "Facturation J5"
+
+#: includes/settings-yeshinvoice.php:75
+msgid "Please select PaymentType here."
+msgstr "Veuillez sélectionner le type de paiement ici."
+
+#: includes/settings-yeshinvoice.php:79
+msgid "Currency ID "
+msgstr "Identifiant de la devise "
+
+#: includes/settings-yeshinvoice.php:88
+msgid "Invoice Language ID"
+msgstr "ID de langue de facturation"
+
+#: includes/settings-yeshinvoice.php:95
+msgid "Send Invoice SMS"
+msgstr "Envoyer la facture SMS"
+
+#: includes/settings-yeshinvoice.php:97
+msgid "Do you want to send Invoice SMS to customer?"
+msgstr "Voulez-vous envoyer un SMS de facture au client ?"
+
+#: includes/settings-yeshinvoice.php:101
+msgid "Send Invoice Email"
+msgstr "Envoyer une facture par e-mail"
+
+#: includes/settings-yeshinvoice.php:103
+msgid "Do you want to send Invoice Email to customer?"
+msgstr "Voulez-vous envoyer un e-mail de facture au client ?"
+
+#: includes/settings-yeshinvoice.php:113
+msgid "YeshInvoice Checkout Page"
+msgstr "Page de paiement YeshInvoice"
+
+#: includes/settings-yeshinvoice.php:119
+msgid "Invoice Title"
+msgstr "Titre de la facture"
+
+#: includes/settings-yeshinvoice.php:124
+msgid "Invoice Type"
+msgstr "Type de facture"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Reciept"
+msgstr "Reçu"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Donation"
+msgstr "Don"
+
+#: includes/settings-yeshinvoice.php:126
+msgid "Tax Invoice/Receipt"
+msgstr "Facture fiscale/reçu"
+
+#: includes/settings-yeshinvoice.php:131
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: includes/settings-yeshinvoice.php:133
+msgid ""
+"This controls the title which the user sees during yesh invoice payment page."
+msgstr ""
+"Cela contrôle le titre que l'utilisateur voit pendant la page de paiement de "
+"la facture yesh."
+
+#: includes/settings-yeshinvoice.php:134
+msgid "Pay with YeshInvoice"
+msgstr "Payer avec YeshInvoice"
+
+#: includes/settings-yeshinvoice.php:138
+msgid "Page Description"
+msgstr "Description de la page"
+
+#: includes/settings-yeshinvoice.php:140
+msgid ""
+"This controls the description which the user sees during yesh invoice "
+"payment page."
+msgstr ""
+"Cela contrôle la description que l'utilisateur voit pendant la page de "
+"paiement de la facture yesh."
+
+#: includes/settings-yeshinvoice.php:141
+msgid ""
+"Yesh Invoice allows you pay invoices for any transaction on your "
+"WooCommerce. Enjoy a variety of useful features, such as Bit, PayPal and "
+"Credit Card without extra costs."
+msgstr ""
+"Yesh Invoice vous permet de payer des factures pour toute transaction sur "
+"votre WooCommerce. Profitez d'une variété de fonctionnalités utiles, telles "
+"que Bit, PayPal et Carte de crédit sans frais supplémentaires."
+
+#: includes/settings-yeshinvoice.php:146
+msgid "Logo Url"
+msgstr "URL du logo"
+
+#: includes/settings-yeshinvoice.php:151
+msgid "Background Color"
+msgstr "Couleur de l'arrière plan"
+
+#: wc-yeshin.php:97
+msgid "Yesh Invoice - Gateway"
+msgstr "Facture Yesh - Passerelle"
+
+#: wc-yeshin.php:169
+msgid "UPLOAD LOGO"
+msgstr "TÉLÉCHARGER LE LOGO"
+
+#: wc-yeshin.php:281
+msgid "Something went wrong. Please try again later."
+msgstr "Quelque chose s'est mal passé. Veuillez réessayer plus tard."
+
+#~ msgid ""
+#~ "Thank you for your order, please click the button below to pay with "
+#~ "YeshInvoice."
+#~ msgstr ""
+#~ "Merci pour votre commande, veuillez cliquer sur le bouton ci-dessous pour "
+#~ "payer avec YeshInvoice."
+
+#~ msgid "Place the payment gateway in test mode using test API keys."
+#~ msgstr ""
+#~ "Placez la passerelle de paiement en mode test à l'aide des clés API de "
+#~ "test."
